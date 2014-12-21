@@ -1,0 +1,8 @@
+name: oxio_unittest
+version: 0.0.1
+description: >
+  Unittest extensions for dart unittest package.
+author: Maciej Szopinski <maciej.sz@gmail.com>
+dependencies:
+  unittest: '>=0.11.0'
+dependency_overrides:
